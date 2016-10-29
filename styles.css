@@ -36,8 +36,6 @@ h3 {
 	font-weight: 500;
 }
 
-
-
 .container {
 	text-align: center;
 	display: flex;
@@ -61,4 +59,3 @@ $pop: rgba( 255, 212, 0, 1);
 $dark: rgba( 42, 43, 57, 1);
 $light: rgba( 242, 249, 255, 1);
 */
-
