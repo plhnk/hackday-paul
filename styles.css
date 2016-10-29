@@ -1,0 +1,64 @@
+body {
+	background: #0c0c10;
+	font-family: 'Source Code Pro', "Lucida Console", Monaco, monospace;
+	overflow: hidden;
+}
+
+button {
+	background-color: #FFD400;
+	border: none;
+	color: white;
+	font-family: 'Source Code Pro';
+	font-size: 1.2em;
+	font-weight: 500;
+	letter-spacing: 1.2px;
+	text-transform: uppercase;
+	padding: 1em 3em;
+}
+
+h1 {
+	font-size: 5em;
+	font-weight: 700;
+	color: rgba(255,212,0,1);
+	margin: 0;
+}
+
+h2 {
+	font-size: 3.5em;
+	font-weight: 300;
+	color: rgba(42, 43, 57, 0.9);
+	margin: 0;
+}
+
+h3 {
+	color: white;
+	font-size: 2.5em;
+	font-weight: 500;
+}
+
+
+
+.container {
+	text-align: center;
+	display: flex;
+	align-items: center;
+	height: 100vh;
+	justify-content: center;}
+
+.giant {
+	font-size: 50vh;
+	text-shadow: 0 20px 56px rgba(42, 43, 57, .7);
+	line-height: 80%;
+	font-weight: 900;
+	color: #0c0c10;
+	z-index: -1;
+	position: absolute;
+}
+
+/*colors*/
+/*
+$pop: rgba( 255, 212, 0, 1);
+$dark: rgba( 42, 43, 57, 1);
+$light: rgba( 242, 249, 255, 1);
+*/
+
